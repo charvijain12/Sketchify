@@ -42,7 +42,7 @@ python Sketchify.py
 2. The selected image will be displayed in the GUI window.
 3. Click on the "Sketchify" button to transform the image into a pencil sketch.
 4. The resulting sketch will be displayed in the GUI window.
-5. Optionally, click on the "Save Sketch" button to save the sketch image to your desired location.
+5. Optionally, the sketch image will automatically be saved in the same directory as the input image with a filename appended with "_sketch.png".
 
 ## Contributing 🤝
 
